@@ -2,7 +2,9 @@
 Installing the py-earth library for Python version > 3.6
 
 
-Py-earth: an implementation of Jerome Friedman's multivariate adaptive regression splines. The py-earth package is only compatible with Python 3.6 or below at the time of writing.  using [~gohlke binaries](https://www.lfd.uci.edu/~gohlke/pythonlibs/) 
+Py-earth: an implementation of Jerome Friedman's multivariate adaptive regression splines. The py-earth package is only compatible with Python 3.6 or below at the time of writing.  
+
+Here I provide a way to install the py-earth library for Python version > 3.6 using [~gohlke binaries](https://www.lfd.uci.edu/~gohlke/pythonlibs/).
 
 
 **(1) Make sure numpy >= 1.14.5**
