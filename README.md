@@ -1,8 +1,8 @@
 # multivariate-adaptive-regression-splines
 Installing the py-earth library for Python version > 3.6
 
-Py-earth: an implementation of Jerome Friedman's multivariate adaptive regression splines.
 
+Py-earth: an implementation of Jerome Friedman's multivariate adaptive regression splines.The py-earth package is only compatible with Python 3.6 or below at the time of writing. 
 
 
 **(1) Make sure numpy >= 1.14.5**
@@ -52,5 +52,4 @@ pip install sklearn_contrib_py_earth-0.1.0-cp38-cp38-win_amd64.whl
 
 
 **References**
-
-https://machinelearningmastery.com/multivariate-adaptive-regression-splines-mars-in-python/
+1. https://machinelearningmastery.com/multivariate-adaptive-regression-splines-mars-in-python/
